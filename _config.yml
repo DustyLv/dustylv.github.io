@@ -1,7 +1,5 @@
 # Site Build Settings
 
-name: Gridster
-
 # jekyll-paginate configuration
 paginate:            5
 
