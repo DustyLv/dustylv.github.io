@@ -5,6 +5,8 @@ paginate:            5
 
 encoding: UTF-8
 
+exclude: 
+  - originalPages
 
 # Build settings
 markdown:            kramdown
