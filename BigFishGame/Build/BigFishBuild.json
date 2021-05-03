@@ -1,9 +1,0 @@
-{
-"TOTAL_MEMORY": 268435456,
-"dataUrl": "BigFishBuild.data.unityweb",
-"asmCodeUrl": "BigFishBuild.asm.code.unityweb",
-"asmMemoryUrl": "BigFishBuild.asm.memory.unityweb",
-"asmFrameworkUrl": "BigFishBuild.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#222C36"
-}
