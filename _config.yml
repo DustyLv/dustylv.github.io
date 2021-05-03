@@ -3,6 +3,9 @@
 # jekyll-paginate configuration
 paginate:            5
 
+encoding: UTF-8
+
+
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
