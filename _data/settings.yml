@@ -8,6 +8,8 @@ google-ID: ''
 
 menu:
 - {name: 'Posts', folder: 'pages', file: 'posts.html'}
+- {name: 'Videos', folder: 'pages', file: 'videos.html'}
+- {name: 'Art Stuff', folder: 'pages', file: 'art-stuff.html'}
 #- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 # - {name: 'Documentation', folder: 'pages', file: 'documentation.html'}

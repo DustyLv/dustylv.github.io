@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bog expedition"
-author: "LaurisTaube"
+author: "Lauris Taube"
 categories: video
 tags: [video, trip, bog]
 image: bog-lake.jpeg
