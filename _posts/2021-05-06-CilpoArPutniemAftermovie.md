@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Cilpo ar putniem" aftermovie"
+title: "Cilpo ar putniem aftermovie"
 author: "Lauris Taube"
 categories: video
 tags: [video, trip, hiking]
