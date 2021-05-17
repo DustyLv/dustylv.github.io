@@ -2,6 +2,9 @@
 layout: page
 title: Look, ma! I made a video!
 ---
+<script src="https://cdn.plyr.io/2.0.15/plyr.js"></script>
+<link rel="stylesheet" href="https://cdn.plyr.io/2.0.15/plyr.css">
+
 {% for post in site.categories.video %}
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
