@@ -11,4 +11,4 @@ On 12.04.2021 we went on a work expedition to a bog.
 
 Here's the video.
 
-<iframe width="960" height="540" src="https://drive.google.com/file/d/16vi4v-nBgDCiEY7OL1BGj5GWnDNUiy_L/preview" frameborder="0" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/u68zyDM9sao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
