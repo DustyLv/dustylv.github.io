@@ -4,7 +4,7 @@ title: "Plunkšķis nātrēs"
 author: "Lauris Taube"
 categories: video
 tags: [video, hike, nature]
-image: thumb_Meadow.jpg
+image: thumb_Meadow.png
 ---
 
 
